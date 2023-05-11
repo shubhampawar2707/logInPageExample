@@ -121,7 +121,7 @@ function f4()
     +"\n"+"<body>"
     +"\n"+"<form action=s2.php method=get>"
     +"\n"+"Eneter Username"
-    +"\n"+"<input type=text name=t2>"
+    +"\n"+"<input type=text name=t1>"
     +"\n"+"Eneter Password"
     +"\n"+"<input type=password name=t2>"
     +"\n"+" <br>"
